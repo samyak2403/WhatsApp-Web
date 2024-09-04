@@ -19,7 +19,7 @@ To build and run the application on your Android device:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/whatsapp-web-app.git
+    git clone https://github.com/samyak2403/whatsapp-web-app.git
     cd whatsapp-web-app
     ```
 
