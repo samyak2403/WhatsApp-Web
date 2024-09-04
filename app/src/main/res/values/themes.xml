@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WhatsAppWeb" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">#FFFFFF</item>
+        <item name="android:colorPrimaryDark">@color/home_top_end_color</item>
+        <item name="android:colorAccent">#4CAF50</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_launcher_foreground</item>
+    </style>
+    <style name="Theme.WhatsAppWeb" parent="Base.Theme.WhatsAppWeb" />
+</resources>

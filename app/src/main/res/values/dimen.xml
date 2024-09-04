@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Samyak kamble on 9/4/24, 11:10 PM
+  ~  Copyright (c) 2024 . All rights reserved.
+  ~  Last modified 9/4/24, 11:10 PM
+  -->
+
+<resources>
+    <dimen name="toolbar">@dimen/_43sdp</dimen>
+    <dimen name="toolbarText">@dimen/_15ssp</dimen>
+    <dimen name="toolbarTabLayout">30dp</dimen>
+    <dimen name="customtabsize">@dimen/_14sdp</dimen>
+</resources>
